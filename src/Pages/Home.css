@@ -1,0 +1,45 @@
+ 
+.todo {
+      position: absolute;
+      height: 475px;
+      bottom: 46px;
+      width: 100%;
+      object-fit: cover;
+      z-index: 1;
+    
+     
+  }
+  
+  .banner{
+      padding: 0 !important;
+      margin: 0 !important;
+      width: 90%;
+      height: 10rem;
+      z-index: 1;
+      
+  }
+  .text {
+      z-index: 1000;
+      color: #eee;
+      top: 18rem;
+      position: absolute;
+      font-size: 3rem;    
+      margin-left: 9rem;
+      
+  }
+  
+
+  @media screen and (max-width: 900px) {
+      .Gomago  todo{
+          z-index: 100;
+          position: absolute;
+          margin-bottom: 58px;
+    
+      }
+      /* .text{
+         
+          font-size: 3rem;
+      
+  
+      } */
+  }

@@ -1,0 +1,72 @@
+.contact{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:  rgb(17, 126, 17);
+
+}
+.txt{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+}
+.txt h2{
+    margin-bottom: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+hr{
+    
+    background-color:  rgb(17, 126, 17);
+    border: 0 none;
+    color:  rgb(17, 126, 17);
+    height: 2px;
+
+    
+
+}
+.buss hr{
+    width: 38%;
+    border-top: 2px;
+}
+.frms hr{
+    width: 38%;
+}
+.txt p{
+    font-size: 1.3rem;
+    color: #222;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 2px;
+}
+.frms h2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5px;
+}
+.frms h3{
+    /* margin-left: 410px; */
+    padding-left: 20rem;
+}
+.frms h3 i{
+    
+    color: rgb(17, 126, 17);
+    margin-right: 3px;
+    font-size: 1.3rem;
+    
+}
+.frms h3 span{
+    font-weight: 900;
+}
+.frms .loc{
+    color: gray;
+    margin-left: 5px;
+}
+@media screen and (max-width:850px){
+    .frms h3{
+        padding-left: 15px;
+    }
+}
+

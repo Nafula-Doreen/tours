@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.77d6e283.css",
+    "main.js": "/static/js/main.163806b1.js",
+    "static/media/image3.jpg": "/static/media/image3.69c6a26ddaf146db1958.jpg",
+    "static/media/contact.jpg": "/static/media/contact.83746bc623543cdb816c.jpg",
+    "static/media/image9.jpg": "/static/media/image9.67b056af10e01b847e49.jpg",
+    "static/media/image1.jpg": "/static/media/image1.17594f38bc2beac029a5.jpg",
+    "static/media/image10.jpg": "/static/media/image10.2d0b56f071312a79becd.jpg",
+    "static/media/image7.jpg": "/static/media/image7.98826e83d3aafb087b26.jpg",
+    "static/media/service.jpg": "/static/media/service.a1a9b989231af53c71bb.jpg",
+    "static/media/Trip8.jpg": "/static/media/Trip8.d6c69aa06263b2b14455.jpg",
+    "static/media/img2.jpg": "/static/media/img2.a3a0f48cbe1ad52bf96b.jpg",
+    "static/media/Img.jpg": "/static/media/Img.0ab0d9396e1d70710137.jpg",
+    "static/media/Trip4.jpg": "/static/media/Trip4.9b721adc9ffbb6a63084.jpg",
+    "static/media/Trip1.jpg": "/static/media/Trip1.473e871e277556e0a130.jpg",
+    "static/media/Trip2.jpg": "/static/media/Trip2.d8fdc69015dff1bb25bd.jpg",
+    "static/media/Img5.jpg": "/static/media/Img5.334430a5efef805fbd3f.jpg",
+    "static/media/Trip7.jpg": "/static/media/Trip7.3b038894977a4f22c563.jpg",
+    "static/media/go-01.png": "/static/media/go-01.c6bdac3d00c3a58e03ec.png",
+    "static/media/bamboo.png": "/static/media/bamboo.a5f4da4eb617b9115238.png",
+    "static/media/Trip5.jpg": "/static/media/Trip5.139c8f02b0a5e40b577b.jpg",
+    "index.html": "/index.html",
+    "main.77d6e283.css.map": "/static/css/main.77d6e283.css.map",
+    "main.163806b1.js.map": "/static/js/main.163806b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77d6e283.css",
+    "static/js/main.163806b1.js"
+  ]
+}

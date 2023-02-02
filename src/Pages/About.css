@@ -1,0 +1,48 @@
+
+.column {
+    display: flex;
+    margin: 2rem 4rem;
+}.text-right h2{
+    color: orangered;
+}
+
+
+
+.text-right{
+    max-width: 50%;
+    margin-top: 20px; 
+
+}
+
+.text-left{
+    max-width: 50%;
+    flex: 1;
+    margin-top: 20px; 
+    
+}
+.text-left img{
+    width: 100%;
+    height: 70%;
+    flex: 1;
+}
+.text-right p{
+    font-size: 1.1rem;
+    font-family: 'Poppins';
+}
+.content{
+    margin-bottom: 80px;
+}
+.content h6{
+    color: orangered;
+    font-size: 1.2rem;
+    
+
+}
+@media screen and (max-width:885px){
+    .column{
+        
+        flex-direction: column;
+    }
+    
+    
+}
